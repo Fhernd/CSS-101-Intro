@@ -1,0 +1,6 @@
+D:\Dropbox\Education\Pluralsight\Software\CSS\CSS-101-Intro\CSS-101-Intro\bin\$safeprojectname$.dll.config
+D:\Dropbox\Education\Pluralsight\Software\CSS\CSS-101-Intro\CSS-101-Intro\bin\$safeprojectname$.dll
+D:\Dropbox\Education\Pluralsight\Software\CSS\CSS-101-Intro\CSS-101-Intro\bin\$safeprojectname$.pdb
+D:\Dropbox\Education\Pluralsight\Software\CSS\CSS-101-Intro\CSS-101-Intro\obj\Debug\CSS-101-Intro.csprojResolveAssemblyReference.cache
+D:\Dropbox\Education\Pluralsight\Software\CSS\CSS-101-Intro\CSS-101-Intro\obj\Debug\$safeprojectname$.dll
+D:\Dropbox\Education\Pluralsight\Software\CSS\CSS-101-Intro\CSS-101-Intro\obj\Debug\$safeprojectname$.pdb
